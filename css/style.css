@@ -1,4 +1,5 @@
 @import "./global/header.css";
+@import "./global/footer.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 
@@ -6,9 +7,15 @@
 
 /* home */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* seguros */
+@import "./seguros/seguros.css";
