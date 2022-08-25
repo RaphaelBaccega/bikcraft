@@ -1,7 +1,7 @@
 # Projeto Bikcraft - CURSO ORIGAMID | HTML E CSS
 
 ## 📌 Sobre
-Projeto final do curso de HTML e CSS da Origamid, com intuito de praticar todo conhecimento adquirido durante o curso, prototipação feita pelo professor. A bikcraft é um site fictício de venda de bicicletas elétricas, possuo um visual agradável e foi desenvolvimento com apenas HTML e CSS. 
+Projeto final do curso de HTML e CSS da Origamid, com intuito de praticar todo conhecimento adquirido durante o curso, prototipação feita pelo professor. A bikcraft é um site fictício de venda de bicicletas elétricas, possui um visual agradável e foi desenvolvimento com apenas HTML e CSS. 
 
 ![Preview Site](./video/video-portfolio.gif)
 
